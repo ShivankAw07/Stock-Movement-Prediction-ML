@@ -12,7 +12,7 @@ Returns, ROC, and Volatility to learn trading patterns and make predictions.
 ##  Project Overview
 This is an end-to-end Machine Learning project where I:
 
-- Collected stock price data (2015–2024) using Yahoo Finance  
+- Collected stock price data (2015–2024) using Kaggle Dataset 
 - Performed Exploratory Data Analysis (EDA)  
 - Engineered technical indicators used in trading  
 - Created a binary target variable (Up/Down movement)  
